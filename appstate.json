@@ -1,7 +1,20 @@
-...
-
-
-here C3c Cooki File
-
-
-.....
+[
+    {
+        "key": "datr",
+        "value": "qFiVaeY8hnlhxpioKuJRcxFj",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-18T06:14:05.229Z",
+        "lastAccessed": "2026-02-18T06:14:05.230Z"
+    },
+    {
+        "key": "fr",
+        "value": "0csVE8KDmQLQHlwHF..BplVio..AAA.0.0.BplVio.AWdkwYlKT-IAACwHBFy9AZyP0AY",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-02-18T06:14:05.230Z",
+        "lastAccessed": "2026-02-18T06:14:05.230Z"
+    }
+]
